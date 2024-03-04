@@ -5,6 +5,7 @@ class Student:
     klass = ''
     score = ''
 
+
 f = open('students.csv', 'r', encoding = 'utf8')
 f.readline()
 STUD = []
