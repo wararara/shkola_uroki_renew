@@ -1,1 +1,1 @@
-print('FUCKING DIE')
+print('CUTE CATS')
